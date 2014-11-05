@@ -4,10 +4,10 @@ This is a "demo" page, created for the [COMP1950](http://thenet.ca) course.
 
 You can see files like: 
 
-*HTML
-*CSS
-*JS
-*etc....
+* HTML
+* CSS
+* JS
+* etc....
 
 ##HTML
 
